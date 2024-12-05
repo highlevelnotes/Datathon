@@ -31,4 +31,5 @@ Team BAF
 
 
 kaggle : https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022/data?select=Variant+I.csv
+
 paper : https://arxiv.org/abs/2211.13358
