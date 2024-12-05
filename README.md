@@ -23,7 +23,6 @@ Team BAF
 * 데이터톤_Variant_성능지표
 
 
-
+\n\n\n\n\n
 kaggle : https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022/data?select=Variant+I.csv
-
 paper : https://arxiv.org/abs/2211.13358
